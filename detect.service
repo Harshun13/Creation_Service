@@ -1,0 +1,2 @@
+[Service]
+ExecStart = /home/sanveer/psl/psl_8/PSL8_TD/usbDetectServ.sh 
